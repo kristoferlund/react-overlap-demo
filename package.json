@@ -3,6 +3,23 @@
   "private": true,
   "version": "0.0.1",
   "type": "module",
+  "description": "A React component for creating overlapping, hoverable images and SVGs.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kristoferlund/react-overlap.git"
+  },
+  "author": "Kristofer Lund <kristofer@fmckl.se>",
+  "keywords": [
+    "react",
+    "overlap",
+    "hover",
+    "image",
+    "svg"
+  ],
+  "bugs": {
+    "url": "https://github.com/kristoferlund/react-overlap/issues"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
