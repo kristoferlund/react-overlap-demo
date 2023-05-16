@@ -1,7 +1,7 @@
 {
-  "name": "react-overlap-www",
+  "name": "react-overlap-demo",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -13,7 +13,8 @@
     "@tailwindcss/typography": "^0.5.9",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-overlap": "^0.0.10"
+    "react-overlap": "^0.0.10",
+    "typescript": "^5.0.2"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
